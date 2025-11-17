@@ -16,7 +16,7 @@ This system uses a hybrid AI architecture combining:
 
 ## 🚀 Features
 
-### 🧠 Hybrid Diagnosis Engine
+### Hybrid Diagnosis Engine
 - Emergency detection (Heart attack, Stroke, Anaphylaxis, etc.)
 - Pattern-based reasoning with medical knowledge base
 - ML fallback using SentenceTransformer embeddings
@@ -27,19 +27,16 @@ This system uses a hybrid AI architecture combining:
 - Asks follow-up questions for better accuracy
 - Displays urgency badges & confidence levels
 
-### 🧹 Intelligent NLP Pipeline
+###  Intelligent NLP Pipeline
 - Medical phrase preservation (e.g., chest pain → chestpain)
 - Custom stopword filtering
 - Lemmatization
 - Severity, duration & location extraction
 
-### 📊 Feedback Logging
-- Stores user feedback for model improvement
-
 ---
 
 ## 📂 Project Structure
-
+```
 Diagnobot/
 │
 ├── app.py # Streamlit chatbot UI
@@ -54,33 +51,37 @@ Diagnobot/
 │
 └── README.md # Project documentation
 
+```
 
----
 
 ## 🧪 Installation & Usage
 
 ### 1️⃣ Clone the repository
+```
 git clone https://github.com/<your-username>/Diagnobot.git
 cd Diagnobot
-
+```
 
 ### 2️⃣ Create a virtual environment
+```
 python -m venv venv
 source venv/bin/activate # Linux/Mac
 venv\Scripts\activate # Windows
-
+```
 
 ### 3️⃣ Install dependencies
+```
 pip install -r requirements.txt
-
+```
 
 ### 4️⃣ Download trained ML models  
 *(If not included in repo — recommended)*  
 Place them inside the **/models** folder.
 
 ### 5️⃣ Run the Streamlit app
+```
 streamlit run app.py
-
+```
 
 ---
 
@@ -88,8 +89,7 @@ streamlit run app.py
 The dataset used for training is stored locally and is **not included** in the GitHub repository  
 to keep the repo lightweight and respect data license guidelines.
 Dataset used: Disease-Symptom Dataset
-Source: https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset
-
+Source: [Dataset Source (Kaggle)]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset))
 
 ---
 
