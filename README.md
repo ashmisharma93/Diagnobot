@@ -103,7 +103,7 @@ For emergencies or serious symptoms, consult a certified medical professional.
 
 ## 🧑‍💻 Author
 **Ashmita Sharma**  
-B.Tech — Artificial Intelligence & Machine Learning  
+B.Tech — Artificial Intelligence & Data Science  
 Delhi Technical Campus, Greater Noida  
 
 ---
