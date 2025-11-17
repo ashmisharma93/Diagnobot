@@ -95,7 +95,7 @@ to keep the repo lightweight and respect data license guidelines.
 ---
 
 ## 🛑 Important Note
-Diagnobot Pro is **not a medical diagnostic tool**.  
+Diagnobot is **not a medical diagnostic tool**.  
 It provides preliminary analysis only.  
 For emergencies or serious symptoms, consult a certified medical professional.
 
