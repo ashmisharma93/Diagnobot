@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ Download trained ML models  
-*(If not included in repo — recommended)*  
+*(If not included in repo)*  
 Place them inside the **/models** folder.
 
 ### 5️⃣ Run the Streamlit app
