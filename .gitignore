@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.sav
+
+# Virtual environments
+venv/
+.env
+.env.*/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & temp files
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dataset folders (DO NOT upload)
+archive/
+data/
+datasets/
+
+# Large model files (use Git LFS or external storage)
+models/
+*.pkl
+*.h5
+*.pt
+*.bin
+
+# Cache files
+__pycache__/
+*.cache
+.cache/
+
+# Others
+*.zip
+*.tar.gz
+
+# Ignore unwanted project files
+run_setup.py
+followup_engine.py
+advanced_confidence.py
+dashboard.py
+Diagnobot_Training.ipynb_checkpoints
+retrain_model.py
+symptom_analyzer.py
+test_diagnobot.py
+
+# Ignore unused folders
+others/
+saved_models__/
+archive.zip
