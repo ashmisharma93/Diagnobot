@@ -88,8 +88,9 @@ streamlit run app.py
 ## 📥 Dataset
 The dataset used for training is stored locally and is **not included** in the GitHub repository  
 to keep the repo lightweight and respect data license guidelines.
-Dataset used: Disease-Symptom Dataset
-Source: [Dataset Source (Kaggle)]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset))
+- Dataset used: Disease-Symptom Dataset
+- Source: [Dataset Source (Kaggle)](https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset)
+
 
 ---
 
