@@ -58,7 +58,7 @@ Diagnobot/
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/<your-username>/Diagnobot.git
+git clone https://github.com/ashmisharma93/Diagnobot.git
 cd Diagnobot
 ```
 
