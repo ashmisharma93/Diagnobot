@@ -39,17 +39,17 @@ This system uses a hybrid AI architecture combining:
 ```
 Diagnobot/
 │
-├── app.py # Streamlit chatbot UI
-├── diagnose_api.py # Core diagnosis engine
-├── utils.py # NLP preprocessors & validators
-├── disease_info.py # Medical metadata (symptoms/precautions)
-├── Train_Model.ipynb # Notebook for ML model training
-├── requirements.txt # Dependencies
+├── app.py               # Streamlit chatbot UI
+├── diagnose_api.py      # Core diagnosis engine
+├── utils.py             # NLP preprocessors & validators
+├── disease_info.py      # Medical metadata (symptoms/precautions)
+├── Train_Model.ipynb    # Notebook for ML model training
+├── requirements.txt     # Dependencies
 │
-├── models/ # (Optional) Download externally
-│ └── README.md # Instructions for model downloads
+├── models/              # (Optional) Download externally
+│ └── README.md          # Instructions for model downloads
 │
-└── README.md # Project documentation
+└── README.md            # Project documentation
 
 ```
 
